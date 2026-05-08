@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ SYVOX-MAX ⚡
+#      SYVOX-MAX ⚡
 
 <!-- HIGH-REFRESH 256FPS ANIMATED HEADER (ITALIC + WHITE) -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&italic=true&weight=700&size=45&pause=500&color=FFFFFF&center=true&vCenter=true&random=false&width=600&lines=HARDWARE+ANALYZER;SOFTWARE+FORENSICS;OS+KERNEL+AUDITOR;SYSTEMS+ARCHITECT" alt="256FPS Typing Animation" />
@@ -54,7 +54,7 @@
 
 ### 📊 GitHub Stats & Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=syvox-max&show_icons=true&theme=tokyonight" alt="Syvox-Max Stats" />
+
 </p>
 
 <p align="center">
